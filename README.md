@@ -41,3 +41,5 @@ After the setup, completely close the app.
 11. Create a copy of the 'HttpCanary.pem' file in the same directory and rename it to `87bc3517.0`.
 
 12. That's it 
+
+Can also ref https://www.cnblogs.com/ercilan/p/14386362.html
